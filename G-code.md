@@ -1,4 +1,4 @@
-BealgeG G-Code interpretation
+BeagleG G-Code interpretation
 -----------------------------
 
 ##Syntax
